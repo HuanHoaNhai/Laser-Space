@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: 4bac7c6e79f5b5e48bfa66bcdbf4bdb8
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - pathPrefab: {fileID: 7918602656136437039, guid: b10ef2e3420f94940b5367ceabd1e6fc, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
